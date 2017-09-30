@@ -1,0 +1,15 @@
+{
+  "uid": "a1b2c3d4f1",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "blacksea",
+    "identity": "sha256$77afb5961468f885ccc1cd630fefc61e3f4778429d9352c46bc83d982d1e676a"
+  },
+  "issuedOn":  1388534500,
+  "badge": "https://dpshelio.github.io/openbadges/rookie-badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://dpshelio.github.io/openbadges/rookie-badge-award3.json"
+  }
+}
