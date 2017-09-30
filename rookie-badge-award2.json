@@ -7,9 +7,9 @@
     "identity": "sha256$a7f7c78f91d7c6ba3e4783aa1c7b643040c22e19980ddf2689e9831af3339339"
   },
   "issuedOn":  1388534500,
-  "badge": "http://dpshelio.github.io/openbadges/rookie-badge-class.json",
+  "badge": "https://dpshelio.github.io/openbadges/rookie-badge-class.json",
   "verify": {
     "type": "hosted",
-    "url": "http://dpshelio.github.io/openbadges/rookie-badge-award2.json"
+    "url": "https://dpshelio.github.io/openbadges/rookie-badge-award2.json"
   }
 }

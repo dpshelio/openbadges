@@ -1,7 +1,7 @@
 {
     "name": "Rookie Badge Issuer",
     "description": "Issues great new Open Badges to self.",
-    "image": "http://dpshelio.github.io/openbadges/rookie-badge-issuer.png",
-    "criteria": "http://dpshelio.github.io/openbadges/rookie-badge-criteria.html",
-    "issuer": "http://dpshelio.github.io/openbadges/badge-issuer.json"
+    "image": "https://dpshelio.github.io/openbadges/rookie-badge-issuer.png",
+    "criteria": "https://dpshelio.github.io/openbadges/rookie-badge-criteria.html",
+    "issuer": "https://dpshelio.github.io/openbadges/badge-issuer.json"
 }
